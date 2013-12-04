@@ -354,7 +354,7 @@ background-color:rgb(41,46,51);
 height:192px;
 width:1px;
 }
-#jstwitter{
+#jstwitter, #jstwitterTmp{
 float:left;
 width:275px;
 margin:60px 0px 0px 30px;
@@ -362,6 +362,9 @@ font-family: eurostile;
 font-size: 18px;
 line-height: 20px;
 color: #122c44;
+}
+#jstwitterTmp {
+margin: 0 0 0 30px;
 }
 #jstwitter .tweet {
 	margin: 0 auto 15px auto;
@@ -477,30 +480,30 @@ background:url('images/in.png') -61px 0;
 	overflow:hidden;
 }
 .proj_desc #content #left {
-	margin-left:90px;
-	margin-top:10px;
-	width:302px;
-	height:660px;
+	margin-left:15px;
+	margin-top:80px;
+	width:485px;
+	height:395px;
 	float:left;
 }
 .proj_desc #content #right {
-	margin-left:135px;
+	margin-left:25px;
 	margin-top:50px;
 	width:430px;
 	height:660px;
 	float:right;
 }
 .proj_desc #content #slideshow {
-	background: url('images/iphone_bg.png') no-repeat;
-	width:302px;
-	height:592px;
+	background: url('images/imac_bg.png') no-repeat;
+	width:485px;
+	height:395px;
 }
 
 #slideshow img {
-	margin-left:24px;
-	margin-top:103px;	
-	width:254px;
-	height:381px;
+	margin-left:22px;
+	margin-top:22px;	
+	width:440px;
+	height:249px;
 }
 
 #right #title p{
