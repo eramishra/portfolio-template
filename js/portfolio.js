@@ -75,7 +75,7 @@ $(document).ready(function (){
 			$(".proj_desc #content #right #title p").html(desc);
 			var details = projectsArr[index][2];
 			$(".proj_desc #content #right #details p").html(details);
-			$(".proj_desc #content").animate({height:660}, 800);
+			$(".proj_desc #content").animate({height:590}, 800);
 			var href = projectsArr[index][8];
 			console.log(href);
 			if (href.length > 0) {
