@@ -358,6 +358,10 @@ width:1px;
 float:left;
 width:275px;
 margin:60px 0px 0px 30px;
+font-family: eurostile;
+font-size: 18px;
+line-height: 20px;
+color: #122c44;
 }
 #jstwitter .tweet {
 	margin: 0 auto 15px auto;
